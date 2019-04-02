@@ -1,0 +1,94 @@
+.firstrow{
+	color: white;
+	background-color: grey;
+}
+
+.firstrow a{
+	color: white;
+	text-decoration: none;
+	text-indent: 1em;
+}
+.rightalign{
+	float: right;
+}
+.mar{   
+	font-size:9pt;
+	margin-top:10px;
+	font-weight: bold;
+}
+#image{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.nav a
+{
+	color: grey;
+}
+
+.thirdrow{
+	color:grey;
+	background-image: url("../images/texture-bw.png");
+}
+.thirdrow a{
+	color:grey;
+	text-decoration: none; 
+}
+
+.x
+{
+	font-size:18px;
+	margin-top: 30px;
+}
+
+.maintext{
+	color:black;
+	margin-top:22px;
+	margin-bottom:22px;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.fourthmaintext
+{
+	color:black;
+	margin-bottom:22px;
+	font-size: 30px;
+	font-weight: bold;
+	padding-left:0px;
+	margin-top: 40px;
+}
+.fourthmaintext2{
+	color:black;
+	font-size: 25px;
+	font-weight: bold;
+}
+.fourthinfotext{
+	font-size:22px;
+	font-weight: lighter;
+}
+.fourthrow{
+	margin-left:20px;
+}
+.fourthrowsideinfotext{
+	margin-top:0px;
+}
+.sixthrow h5{
+	font-size:15px;
+	color:white;
+	font-weight: 600;
+}
+.sixthrow{
+	padding-top:60px;
+}
+h6{
+	color:white;
+}
+.sixthrow y{
+	font-size: 16px;
+	
+}
+.sixthrow btn{
+	background-color: green;
+	color:white;	        	
+}
